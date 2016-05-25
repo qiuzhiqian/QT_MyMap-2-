@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>baiduMap.html</file>
+    </qresource>
+</RCC>

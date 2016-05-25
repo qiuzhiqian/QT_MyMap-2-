@@ -53,6 +53,7 @@ ApplicationWindow {
                 height: parent.height
                 text: "Map"
                 onClicked:{
+                    addrInput.text="MapShow"
                     webview.url="qrc:/baiduMap.html"
                 }
             }
